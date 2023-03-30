@@ -42,7 +42,7 @@ Sorry. I cannot upload files greater than 2GB due to Telegram API limitations.
     NO_FILE_FOUND = """I couldn't find any video/file
 Go check if you can access the content in the URL from your browser first!"""
     NO_VOID_FORMAT_FOUND = """Something went wrong 
-I think you have entered an unaccessible or a private URL.Try to load it on <a href='https://eu-amsterdam.apranet.eu.org'>transloader </a> and give me new link.
+I think you have entered an unaccessible or a private URL.Try to load it on <a href='https://transload:transload@gcp.apranet.eu.org'>transloader </a> and give me new link.
 Additional info:
 {}"""
     HELP_USER = """<b>How to use me?</b> 🤔
@@ -82,7 +82,7 @@ You can use /rename command after receiving file to rename it with custom thumbn
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds."
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DONATE = """ <b>support my work ❤️</b>
- Contact admin : @aceknox """
+Contact admin : @aceknox """
     ABOUT =""" 
 ◽ My Name  : Url Uploader Bot
 ◽ Channel : @knoxprojects
