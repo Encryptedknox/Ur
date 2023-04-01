@@ -73,7 +73,9 @@ If you don't send a thumbnail the video/file will be uploaded with an auto gener
 <b>3. Select the button</b>
   <u>Video-option</u>: Give video/file in video format
   <u>File-option</u>: Give video/file in file format
-   
+
+<b>4. If the bot gives error  Try to load it on <a href='https://transload:transload@gcp.apranet.eu.org'>transloader </a> and give me new link.</b>
+
 <b>👉 Special feature: Set caption to any file you want! ✨</b>
 🔹 Select an uploaded file/video or forward me <b>Any Telegram File</b> and just write the text you want to be on the file <b>as a reply to the file</b> by selecting it (as replying to a message) and the text you wrote will be attached as caption! 🤩
 Ex: <a href='https://telegra.ph/file/0d4cf1d5677dda9311135.png'>Send Like This! It's Easy</a> 🥳"""
