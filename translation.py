@@ -42,7 +42,10 @@ Sorry. I cannot upload files greater than 2GB due to Telegram API limitations.
     NO_FILE_FOUND = """I couldn't find any video/file
 Go check if you can access the content in the URL from your browser first!"""
     NO_VOID_FORMAT_FOUND = """Something went wrong 
-I think you have entered an unaccessible or a private URL.Try to load it on <a href='https://transload:transload@gcp.apranet.eu.org'>transloader </a> and give me new link.
+I think you have entered an unaccessible or a private URL.
+
+Try to load it on <a href='https://transload:transload@gcp.apranet.eu.org'>transloader </a> and give me new link.
+
 Additional info:
 {}"""
     HELP_USER = """<b>How to use me?</b> 🤔
